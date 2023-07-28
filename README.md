@@ -29,7 +29,7 @@ Run the program to determine the number of words in the file created
 """
 Program to sort the elements in the list using the Selection Sort algorithm.
 Developed by: Hezron Belix
-RegisterNumber: 2300990
+RegisterNumber: 23009905
 """
 import sys
 count = 0
